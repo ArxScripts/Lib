@@ -37,7 +37,7 @@ local RadiantCfg = {
 		-- Drop shadow behind the window.
 		-- Per theme, falling back to Default.
 		Shadow = {
-			Default = { Blur = 10, Color = Color3.fromRGB(0, 0, 0), Transparency = 0 },
+			Default = { Blur = 10, Color = Color3.fromRGB(0, 0, 0), Transparency = 0.25 },
 			["Radiant Exclusive"] = { Blur = 13, Color = Color3.fromRGB(255, 186, 35), Transparency = 0.4 },
 		},
 	},
