@@ -5,7 +5,7 @@
 	to touch it.
 ]]
 local RadiantCfg = {
-	Build = "2026-08-05x",
+	Build = "2026-08-06a",
 
 	Themes = {
 		-- Order also decides what shows in the theme dropdown.
